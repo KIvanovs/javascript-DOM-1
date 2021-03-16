@@ -7,3 +7,4 @@
 > How did you go about hiding elements initially?
 
 Your reply here...
+Es pievienoju stila atribūtu un iestatīju to display: none.
