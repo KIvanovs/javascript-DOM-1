@@ -6,14 +6,14 @@
 
 > If you click the link to reveal more text and then refresh the page, does the text remain revealed, or is it hidden again? Why?
 
-Your reply here...
-Teksts atkal tiks paslēpts, jo mēs restartējam skriptu.
+ Your reply here...
+ Teksts atkal tiks paslēpts, jo mēs restartējam skriptu.
 ---
 
 > Remove `window.addEventListener("load", function(){` (and the closing `})`) from **global.js**. Does the link still reveal the text? What is the purpose of this code that you've removed?
 
 Your reply here...
-Pēc koda noņēmšanas teksts sāka parādīties.Reģistrējiet ziņojumu, kad lapa ir pilnībā ielādēta.
+Pēc koda noņēmšanas teksts neparādas.Reģistrējiet ziņojumu, kad lapa ir pilnībā ielādēta.
 
 ---
 
