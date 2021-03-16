@@ -1,5 +1,6 @@
-window.addEventListener("load", function(){
-
+window.addEventListener('click', function(){
+  document.getElementById('more_text_content').style.display = 'block';
+  document.getElementById('more_text_link').style.visibility = 'hidden';
   // Here is some pseudo-code to help you get started:
 
   // 1. Get the DOM element which will be clicked.
